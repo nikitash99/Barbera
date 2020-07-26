@@ -246,6 +246,13 @@ footer{
     
     
 }
+.nik img{
+    align-items: center;
+}
+.nik p{
+    color: rgb(23, 22, 24);
+    padding-right: 1144px;
+}
 
 .center img{
     height: 44px;
