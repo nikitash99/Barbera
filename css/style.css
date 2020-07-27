@@ -73,8 +73,8 @@ html{
 }
 
 #navbar ul li a:hover{
-    color: #92da91;
-    /*background-color: white;*/
+    color: green;
+    background-color: #92da91;
 }
 
 /* Home Section */
