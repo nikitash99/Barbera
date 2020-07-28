@@ -1,11 +1,20 @@
 @media only screen and (min-width: 15px){
     body {
         background-color: darkcyan;
+        
     }
 }
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 400px;
+}
+
 
 html{
     scroll-behavior: smooth;
+    max-width: 1300px;
+    max-height: 670px;
 }
 /* Navigation */
 #navbar {
@@ -37,6 +46,7 @@ html{
 /* Home section */
 #home::before{ 
     height: 750px;
+    
 }
 #home{
     /*height: 370px; */
