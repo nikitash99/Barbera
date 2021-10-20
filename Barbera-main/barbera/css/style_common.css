@@ -15,17 +15,17 @@ body{
     color: rgb(197, 194, 194);
     border: none;
   }
-  
+
   .signup:visited {
     color: white;
     border: none;
   }
-  
+
   .signup:active {
     color: rgb(197, 194, 194);
     border: none;
   }
-  
+
 .logo{
     width: 50px;
     z-index: 10;
@@ -34,7 +34,7 @@ body{
     position: fixed;
     top: 8px;
     left: 10px;
-    
+
     margin-left: 5%;
     z-index: 30;
 }
@@ -243,7 +243,7 @@ body{
         width: 0%;
     }
     .v-class-resp{
-        display: none; 
+        display: none;
     }
     .section{
         flex-direction: column-reverse;
@@ -487,11 +487,11 @@ hr{
     background-color: #e7e7e7;
     border: 1px solid black;
   }
-  
+
   #bookNowPrice {
     margin-left: 0px;
   }
-  
+
   #bookNowBut {
     position: absolute;
     right: 0px;
@@ -504,18 +504,18 @@ hr{
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
-  
-  
+
+
   #signupform {
     color: black;
   }
-  
+
   #loginform {
     color: black;
   }
-  
+
   /*Login Button*/
-  
+
   #LoginSubmitBut {
     background-color: black;
     color: white;
@@ -525,46 +525,46 @@ hr{
     padding: auto;
     border: 2px solid black;
   }
-  
+
   #LoginSubmitBut:hover {
     background-color: white;
     color: black;
   }
-  
+
   /*End login Button*/
-  
+
   .modal-content {
     margin: auto;
     font-size: 17px;
     border: 2px solid #ffc39e;
-  
+
     width: 90%;
     padding: 40pxblack;
     border-radius: 10px;
   }
-  
+
   #textbelowregister {
     color: black;
   }
-  
+
   #textbelowregister a {
     color: black;
   }
-  
+
   #textbelowregister a:nth-child(1):hover {
     color: rgb(54, 52, 52);
   }
-  
+
   #textbelowregister a:nth-child(2):hover {
     color: rgb(54, 52, 52);
   }
-  
+
   .loginbuttonjava:hover {
     background-color: #e7e7e7;
     border-radius: 5px;
     color: black;
   }
-   
+
   .goto {
     text-decoration: none;
     border: 1px solid black;
@@ -576,23 +576,23 @@ hr{
     background-color: white;
     color: black;
   }
-  
+
   .feedbackpara {
     width: 90%;
     margin: auto;
     font-size: 25px;
     background-color: rgb(143, 139, 139);
   }
-  
+
   .feedbackerpara {
     width: 90%;
     margin: auto;
     font-size: 25px;
     background-color: rgb(143, 139, 139);
-  
+
     overflow: auto;
   }
-  
+
   #loginButton {
     background-color: white;
     color: black;
@@ -606,22 +606,21 @@ hr{
     color: white;
     border: 2px solid white;
   }
-  
+
   .logeduserhello {
     color: #e7e7e7;
   }
-   
+
   #createusersubmit {
     width: 100%;
     background-color: blue;
   }
-  
+
   #logInsubmit {
     width: 100%;
     background-color: blue;
   }
-  
+
   #createusersubmit.hover {
     border: 2px solid#ffc39e;
   }
- 
